@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wjswjsss&show_icons=true&theme=transparent&hide_border=true" alt="wjswjsss's GitHub stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Daily Quotes" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Computer+Science+Undergrad;Researching+Computer+Vision;Building+Smart+Robots;Learning+Motion+Planning)](https://git.io/typing-svg)
