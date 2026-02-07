@@ -6,12 +6,6 @@
 
   <br/><br/>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wjswjsss&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="wjswjsss" />
-  </a>
-
-  <br/><br/>
-
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -20,7 +14,6 @@
 
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=wjswjsss&show_icons=true&theme=radical&hide_border=true&height=150" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjswjsss&layout=compact&theme=radical&hide_border=true&height=150" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wjswjsss&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
