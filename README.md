@@ -1,17 +1,31 @@
 <div align="center">
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Computer+Science+Undergrad;Researching+Computer+Vision;Building+Smart+Robots;Learning+Motion+Planning&center=true&vCenter=true" alt="Typing SVG" />
-  </a>
+  <h3>Hi there👋</h3>
 
-  <br/><br/>
 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCL-Point_Cloud_Library-00758F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+Smart+Robots;Researching+Computer+Vision;Deep+Learning+Practitioner;Learning+Motion+Planning&center=true&vCenter=true" alt="Typing SVG" />
 
-  <br/><br/>
-  
+  <br/>
+
+  ---
+
+  ### 🛠️ Tech Stack
+
+  <p>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/PCL-00758F?style=flat-square" />
+  </p>
+
+  <br/>
+
+  <!-- ### 📊 GitHub Stats
+
+  <p>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wjswjsss&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=999&icon_color=36BCF7&hide=stars" alt="wjswjsss's GitHub Stats" height="150" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wjswjsss&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=999" alt="Top Langs" height="150" />
+  </p> -->
+
 </div>
