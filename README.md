@@ -19,9 +19,10 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/PCL-00758F?style=flat-square" />
+    <img src="https://img.shields.io/badge/Point_Cloud_Library-00758F?style=flat-square" />
+    <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white" />
   </p>
-
+<!-- 
   <br/>
 
   ---
@@ -30,6 +31,6 @@
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wjswjsss&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=999&langs_count=6" alt="Top Languages" />
 
-  <br/>
+  <br/> -->
 
 </div>
