@@ -24,11 +24,12 @@
 
   <br/>
 
-  <!-- ### 📊 GitHub Stats
+  ---
 
-  <p>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wjswjsss&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=999&icon_color=36BCF7&hide=stars" alt="wjswjsss's GitHub Stats" height="150" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wjswjsss&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=999" alt="Top Langs" height="150" />
-  </p> -->
+  ### Most Used Languages
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wjswjsss&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=999&langs_count=6" alt="Top Languages" />
+
+  <br/>
 
 </div>
