@@ -3,7 +3,7 @@
   <h3>Hi there👋</h3>
 
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+Smart+Robots;Researching+Computer+Vision;Deep+Learning+Practitioner;Learning+Motion+Planning&center=true&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=300&color=36BCF7&width=435&lines=Building+Smart+Robots;Researching+Computer+Vision;Deep+Learning+Practitioner;Learning+Motion+Planning&center=true&vCenter=true" alt="Typing SVG" />
 
   <br/>
 
